@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sade</string>
+    <string name="acc_label">Sade Ekran engelleyici</string>
+    <string name="acc_desc">Instagram, TikTok, X gibi uygulamaları ve bu sitelerin tarayıcıdaki adreslerini engeller. YouTube\'a sadece izin verdiğin saatlerde izin verir. Ekrandaki yazıları sadece hangi uygulamanın ve hangi site adresinin açık olduğunu anlamak için okur, hiçbir yere göndermez.</string>
+</resources>
